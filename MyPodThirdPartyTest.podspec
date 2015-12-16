@@ -92,7 +92,7 @@ Test Pod forfsdafasdfasdfasdfasdfasfas repo iiiiiiiiiiii.
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "PodThirdPartyTest/*.{h,m}"
+  s.source_files  = "GitPodTest/*.{txt}"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
